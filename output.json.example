@@ -1,0 +1,23 @@
+[
+    {
+        "exclusionType": "URLToFilter",
+        "exclusionFamily": "urlFilteringExclusions",
+        "description": "",
+        "exclusionValue": "google.com",
+        "state": "NEW"
+    },
+    {
+        "exclusionType": "URLToFilter",
+        "exclusionFamily": "urlFilteringExclusions",
+        "description": "",
+        "exclusionValue": "amazon.com",
+        "state": "NEW"
+    },
+    {
+        "exclusionType": "URLToFilter",
+        "exclusionFamily": "urlFilteringExclusions",
+        "description": "",
+        "exclusionValue": "microsoft.com",
+        "state": "NEW"
+    },
+]
