@@ -78,7 +78,7 @@ def main():
     with args.output.open("w", encoding="utf-8") as f:
         json.dump(data_total, f, ensure_ascii=False, indent=4)
 
-    print(f" Wrote {len(data_total)} total entries to {args.output} (+{new_count} new).")
+    print(f"Wrote {len(data_total)} total entries to {args.output} (+{new_count} new).")
 
 if __name__ == "__main__":
     main()
